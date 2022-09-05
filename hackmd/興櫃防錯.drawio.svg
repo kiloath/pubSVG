@@ -1,0 +1,798 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="531px" height="641px" viewBox="-0.5 -0.5 531 641" content="&lt;mxfile&gt;&lt;diagram id=&quot;AWsijRwwZ3gtkWMipQuy&quot; name=&quot;第1頁&quot;&gt;7Zxdk6I4FIZ/TS5nSgifl2DrbG3t7MXOVG3t3tENKrMoLtLT7f76TUhotRNtEERNTlXXjMQAkvMmPLycBOHx8vVLEa0XX/M4yZA5il8RfkCm6Vou+ZcWbHmB77CCeZHGrMjYFXxL/0t44YiXPqdxsjmoWOZ5Vqbrw8KnfLVKnsqDsqgo8pfDarM8OzzrOponQsG3pygTS/9M43LBSj3T3ZX/kqTzRX1mw/HZN8uorsyvZLOI4vxlrwhPEB4XeV6yT8vXcZLRtqvbhe03PfLt2w8rklXZZAeT7fAzyp75tfHfVW7riyU/cU0/ltEjLQo3ZVSUPCYjsk0auYzSVVKQbaPazrJovUmr2qzGIs3i36Jt/lzWx6m3wp9JUaakZYMsna/It8s0jqvTiFfCL47ukbzuFfEr+5Lky6QstqRK/e2ItzKXmVG3+ssuaDbmZYu9gDkWL4y4UOZvx961JfnAm1PetLh505KrLNMo+4NoNVrNq8sXWzEu8vX3qJgnJS9Y5+mqTIrJT9JCG142S7NsnGc5DcYqX9Ejlfmaf5kls3rfx7ws8yXfKPiVvx20umo7JH+kHcajzzayyc8dk21jt03+aPWiHOerTVkQCdBjJNGmfEk2pTSCZuMIfhShPgJkSQLkZPSXb9bR6iBSzr/PtEeG5GeXnyIm1YDUYC0a7iqQT/Pq/4mHPBMFBpq4KLBR4KGJTzf9CZrYyPNoIT8b+Z3shHzXFipZlMuMd7uXRVom39bRE636QoZd1jXp+BftRJSTtp9l1YizID0tWb3TDDJxbCdebJ0nnD01Gqc6N9FL/k+yd1LPfMSOIxUNPkc0TkvN8IPt2rb10aKMXP0qKpMwf17FG0GIb7+zkTZtUZtESCFGYVh9sFFoKCSUy+jh9TB6CsnDEeRB0WhquGjiIAJTZNxmo0zo0BJvggK3GokmdAwC3TTDBwkumG1vRqeV0+hw/UrHlY4s3hSFE3rTIvLwxqCZczWDbVEzhterZhodrl/NeICy56Ps9jBCQ5CtL+njHr0dkD/StYMQeRhNLBSSkhH/Kqh6vf+AwulVO/v5oX7Xz+ljPsVq/OAxEfItQxpPr3E8P7jxY/OOOKI2VA6UQnQR0D9CEGH18EI+EKYg9wHFdGH3qot2tGmO7kkmhiAT4zOVBSEE36qwwUO+WzEneUTxaQkhT8+mD72eQVmCamhaqcqh/xI97SqzgSioP4S0B5FdSfVxBSM2xZNgWglyTDW5Y1tMBzCv1e3odpXJjYWHN1ehsxjVRFhDdC1BjvcgRzXp2ACntzseewPisSFzflXosWIcjGNPsKQorTWH9t89qeqoGhJLFYKul21qiL6peUFwwIfgwF/3zHISJ/puujagdu+O8Gw2GtEHA/F1Ejvkwyn62L1OYqeod70FKKmubWY+PV2CTARHL3YeHVvu6B3tG7oxtOgDD9gVgKHP16OiEA0ec3eIbpzg0gtFS1xmJfqspJMee9LVjqJrgUHQ9aVoU3SD8edudOtS7KCpLT7yfRRY1aso6/CVdP0SgqdPWXWqgwvg2wh8wTxmpxTNY6LeE3rDweWw2H6HxQ6V9sEe7B3cxGYJPVUxUHQP4laToiHpuA+KltyzL0bR0ixkFfqsJBDgRddB18eL7hh0hSla9KKtjhRNyLlCYpbB4zNCrjN4OE8QpBlRWBAzPBlW+EGTyr/TT6SqZ8kmOuzxybXfyMOjQYNHA0iN5qcUPXHSJXvrVi7tLrTEoRM5fFvyJHvqXGI/uwURXyAtz0Tv0/I+5P8LJmp7d8X/4KJ35/+31MxB+F8fF/1ovph2/F+LCYKuL/9j0UW3gf/7ziYA/m/C//BqgHVJ8dWAGsPyx/zcyyitpqeOwVPvgamHnP6I9fHUMXjqddDlS2Z4LsUKSjIERqr0WR9zE4a/avWRH1a5B1UFf6TsdEcs+Cot9NQVzY17mhaLJetrDDrBjCiSLRQknjCw6NIvlOztquQWSHY4UGmvT0VRVbSqQaF3qlBFsRms6B6wechpkVgfKxqDFR0fHh2Crq8VbYlWtAkJ3bfu2h6Vs2YobImurXnthO7WedyA08dwGjK72dHBhe6O03jI+ZGWPi60BS50HXR9Mrs7Bl1hnBbd467zI7XJ7OhiNMJTQ4OnhqO9VrenBtFAx5DrfSvU316lilI/mOg9UP+Q8zkt2drbPu3mXrhnSlSJit50797oV6kK111o/0prLFu9Lb59V6sq1yOWnotvN8lGaSEMhbNRbFh9+zagBAx3pkfRcAc93oUe1YRkG6zx7pBsDTnp0dbHGrfBGq+Dro813jHo6lrj9lUX4AZ0+FCguqEsrIJ9p3pUFGXB7+0BZYeca2jrkzRtQ9J0fHhGCLq+KOtIV8G+s7RTwI/TItcMhx3R2b26pmFt7MHFrSZbO2AT98DWQ05IdPSxiR2wieugwzoerddHbaGnroh+/nKoV5ASLONxo0zSXp6KAjcs46GMQhWlZnCku1OzPeS8Q0cfR9oBR5oH3dXHke4YdHUdaVe6jMedOdIAJMeABDxqpnLRowaVa6xyRbH7x6f41+22yP76kvrLv5PXH973Tx4G9G6N3kNO/pNHTeJik8EmDKtBoZ72Ry3OKR/AQpMOB0p0+Jau5SnVd58deFfepbQpZN644jMG+1eJuk8A8pYRXfBr4ZIB+a9HsKcfSatJ/PLGEZ1zULWaqtaI8N1W2AeEz26z1yZ811ejQzfswS647ifvTBIrHhJYuqsLQF70928HecDRbANB7UWuE9qLDj/oXBedKwH7ZLPI6RKuu+okgIuveZzQGv8D&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="530" height="640" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 0 40 L 60 40 L 120 40 L 350 40 L 530 40" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 80 M 60 80 M 120 80 L 350 80 L 530 80" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 120 M 60 120 M 120 120 L 350 120 L 530 120" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 160 M 60 160 M 120 160 L 350 160 L 530 160" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 200 M 60 200 M 120 200 L 350 200 M 530 200" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 240 M 60 240 L 120 240 L 350 240 L 530 240" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 280 M 60 280 M 120 280 L 350 280 L 530 280" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 320 M 60 320 M 120 320 L 350 320 L 530 320" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 360 L 60 360 L 120 360 L 350 360 L 530 360" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 400 M 60 400 M 120 400 L 350 400 L 530 400" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 440 M 60 440 M 120 440 L 350 440 L 530 440" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 480 M 60 480 L 120 480 L 350 480 L 530 480" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 520 M 60 520 M 120 520 L 350 520 L 530 520" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 560 L 60 560 L 120 560 L 350 560 L 530 560" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 600 M 60 600 L 120 600 L 350 600 L 530 600" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 60 0 L 60 40 L 60 80 L 60 120 L 60 160 L 60 200 L 60 240 L 60 280 L 60 320 L 60 360 L 60 400 L 60 440 L 60 480 L 60 520 L 60 560 L 60 600 L 60 640" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 120 0 L 120 40 L 120 80 L 120 120 L 120 160 L 120 200 L 120 240 L 120 280 L 120 320 L 120 360 L 120 400 L 120 440 L 120 480 L 120 520 L 120 560 L 120 600 L 120 640" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 350 0 L 350 40 L 350 80 L 350 120 L 350 160 L 350 200 L 350 240 L 350 280 L 350 320 L 350 360 L 350 400 L 350 440 L 350 480 L 350 520 L 350 560 L 350 600 L 350 640" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 0 M 530 0 M 530 40 M 0 40" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="0" y="0" width="60" height="40" fill="#d5e8d4" stroke="none" pointer-events="none"/>
+        <path d="M 0 0 M 60 0 M 60 40 M 0 40" fill="none" stroke="#82b366" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 20px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <span style="text-align: left">
+                                    股票類別
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="30" y="24" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    股票類別
+                </text>
+            </switch>
+        </g>
+        <rect x="60" y="0" width="60" height="40" fill="#d5e8d4" stroke="none" pointer-events="none"/>
+        <path d="M 60 0 M 120 0 M 120 40 M 60 40" fill="none" stroke="#82b366" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 20px; margin-left: 61px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                系統
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="90" y="24" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    系統
+                </text>
+            </switch>
+        </g>
+        <rect x="120" y="0" width="230" height="40" fill="#d5e8d4" stroke="none" pointer-events="none"/>
+        <path d="M 120 0 M 350 0 M 350 40 M 120 40" fill="none" stroke="#82b366" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 228px; height: 1px; padding-top: 20px; margin-left: 121px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                10/17新制控管
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="235" y="24" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    10/17新制控管
+                </text>
+            </switch>
+        </g>
+        <rect x="350" y="0" width="180" height="40" fill="#d5e8d4" stroke="none" pointer-events="none"/>
+        <path d="M 350 0 M 530 0 M 530 40 M 350 40" fill="none" stroke="#82b366" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 20px; margin-left: 351px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                現行控管
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="440" y="24" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    現行控管
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 40 M 530 40 M 530 80 M 0 80" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 40 M 60 40 M 60 360 M 0 360" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 200px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 316px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                興櫃一般板
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="30" y="204" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    興櫃一般板
+                </text>
+            </switch>
+        </g>
+        <path d="M 60 40 M 120 40 M 120 240 M 60 240" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 140px; margin-left: 61px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 196px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                人工單
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="90" y="144" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    人工單
+                </text>
+            </switch>
+        </g>
+        <path d="M 120 40 M 350 40 M 350 80 M 120 80" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 60px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.委託價超過基準價上下20%，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="64" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.委託價超過基準價上下20%，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 40 M 530 40 M 530 80 M 350 80" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 60px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.委託價超過基準價上下20%，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="64" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.委託價超過基準價上下20%，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 80 M 530 80 M 530 120 M 0 120" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="120" y="80" width="230" height="40" fill="#fff2cc" stroke="none" pointer-events="none"/>
+        <path d="M 120 80 M 350 80 M 350 120 M 120 120" fill="none" stroke="#d6b656" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 100px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.委託價超過基準價上下30%，
+                                <font color="#ff0000">
+                                    不可強制
+                                </font>
+                                。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="104" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.委託價超過基準價上下30%，不可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 80 M 530 80 M 530 120 M 350 120" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 100px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.委託價超過基準價上下30%，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="104" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.委託價超過基準價上下30%，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 120 M 530 120 M 530 160 M 0 160" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="120" y="120" width="230" height="40" fill="#fff2cc" stroke="none" pointer-events="none"/>
+        <path d="M 120 120 M 350 120 M 350 160 M 120 160" fill="none" stroke="#d6b656" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 140px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3.
+                                <font color="#ff0000">
+                                    移除放行單判斷
+                                </font>
+                                。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="144" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3.移除放行單判斷。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 120 M 530 120 M 530 160 M 350 160" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 140px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3.放行單:委託價超過基準價上下50%，或價差50元，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="144" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3.放行單:委託價超過基準價上下50%，或價差50元，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 160 M 530 160 M 530 200 M 0 200" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="120" y="160" width="230" height="40" fill="#fff2cc" stroke="none" pointer-events="none"/>
+        <path d="M 120 160 M 350 160 M 350 200 M 120 200" fill="none" stroke="#d6b656" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 180px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                4.
+                                <font color="#ff0000">
+                                    首五日價格控管：價格控管N的股票，委託價超過基準價上下20%，可強制
+                                </font>
+                                。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="184" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    4.首五日價格控管：價格控管N的股票，委託價超過基準價上下20%，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 160 M 530 160 M 530 240 M 350 240" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 200px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 76px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                4.首五日價格控管：無法判斷首五日股票。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="204" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    4.首五日價格控管：無法判斷首五日股票。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 200 M 530 200 M 530 240 M 0 240" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="120" y="200" width="230" height="40" fill="#fff2cc" stroke="none" pointer-events="none"/>
+        <path d="M 120 200 M 350 200 M 350 240 M 120 240" fill="none" stroke="#d6b656" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 220px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                5.
+                                <font color="#ff0000">
+                                    首五日價格控管：價格控管N的股票，委託價超過基準價上下30%，可強制
+                                </font>
+                                。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="224" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    5.首五日價格控管：價格控管N的股票，委託價超過基準價上下30%，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 240 M 530 240 M 530 280 M 0 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 60 240 M 120 240 M 120 360 M 60 360" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 300px; margin-left: 61px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 116px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                營業員或電子單
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="90" y="304" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    營業員或電子單
+                </text>
+            </switch>
+        </g>
+        <path d="M 120 240 M 350 240 M 350 280 M 120 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 260px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.委託價超過基準價上下20%，回委託失敗。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="264" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.委託價超過基準價上下20%，回委託失敗。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 240 M 530 240 M 530 280 M 350 280" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 260px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.委託價超過基準價上下20%，回委託失敗。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="264" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.委託價超過基準價上下20%，回委託失敗。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 280 M 530 280 M 530 320 M 0 320" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="120" y="280" width="230" height="40" fill="#fff2cc" stroke="none" pointer-events="none"/>
+        <path d="M 120 280 M 350 280 M 350 320 M 120 320" fill="none" stroke="#d6b656" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 300px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.
+                                <font color="#ff0000">
+                                    移除放行單判斷
+                                </font>
+                                。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="304" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.移除放行單判斷。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 280 M 530 280 M 530 320 M 350 320" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 300px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.放行單:委託價超過基準價上下50%或價差50元，回委託失敗。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="304" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.放行單:委託價超過基準價上下50%或價差50元，回委託失敗。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 320 M 530 320 M 530 360 M 0 360" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="120" y="320" width="230" height="40" fill="#fff2cc" stroke="none" pointer-events="none"/>
+        <path d="M 120 320 M 350 320 M 350 360 M 120 360" fill="none" stroke="#d6b656" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 340px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3.
+                                <font color="#ff0000">
+                                    首五日價格控管：價格控管N的股票，委託價超過基準價上下20%，回委託失敗
+                                </font>
+                                。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="344" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3.首五日價格控管：價格控管N的股票，委託價超過基準價上下20%，回委託失敗。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 320 M 530 320 M 530 360 M 350 360" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 340px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3.首五日價格控管：無法判斷首五日股票。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="344" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3.首五日價格控管：無法判斷首五日股票。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 360 M 530 360 M 530 400 M 0 400" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 360 M 60 360 M 60 560 M 0 560" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 460px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 196px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                開放式基金
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="30" y="464" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    開放式基金
+                </text>
+            </switch>
+        </g>
+        <path d="M 60 360 M 120 360 M 120 480 M 60 480" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 420px; margin-left: 61px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 116px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                人工單
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="90" y="424" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    人工單
+                </text>
+            </switch>
+        </g>
+        <path d="M 120 360 M 350 360 M 350 400 M 120 400" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 380px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.委託價超過基準價上下20%，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="384" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.委託價超過基準價上下20%，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 360 M 530 360 M 530 400 M 350 400" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 380px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.委託價超過基準價上下20%，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="384" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.委託價超過基準價上下20%，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 400 M 530 400 M 530 440 M 0 440" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 120 400 M 350 400 M 350 440 M 120 440" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 420px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.委託價超過基準價上下30%，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="424" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.委託價超過基準價上下30%，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 400 M 530 400 M 530 440 M 350 440" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 420px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.委託價超過基準價上下30%，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="424" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.委託價超過基準價上下30%，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 440 M 530 440 M 530 480 M 0 480" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 120 440 M 350 440 M 350 480 M 120 480" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 460px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3.放行單:委託價超過基準價上下50%或價差50元，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="464" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3.放行單:委託價超過基準價上下50%或價差50元，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 440 M 530 440 M 530 480 M 350 480" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 460px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                3.放行單:委託價超過基準價上下50%，或價差50元，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="464" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    3.放行單:委託價超過基準價上下50%，或價差50元，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 480 M 530 480 M 530 520 M 0 520" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 60 480 M 120 480 M 120 560 M 60 560" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 520px; margin-left: 61px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 76px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                營業員或電子單
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="90" y="524" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    營業員或電子單
+                </text>
+            </switch>
+        </g>
+        <path d="M 120 480 M 350 480 M 350 520 M 120 520" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 500px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.委託價超過基準價上下20%，回委託失敗。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="504" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.委託價超過基準價上下20%，回委託失敗。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 480 M 530 480 M 530 520 M 350 520" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 500px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                1.委託價超過基準價上下20%，回委託失敗。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="504" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    1.委託價超過基準價上下20%，回委託失敗。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 520 M 530 520 M 530 560 M 0 560" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 120 520 M 350 520 M 350 560 M 120 560" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 540px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.放行單:委託價超過基準價上下50%或價差50元，回委託失敗。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="544" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.放行單:委託價超過基準價上下50%或價差50元，回委託失敗。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 520 M 530 520 M 530 560 M 350 560" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 540px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                2.放行單:委託價超過基準價上下50%或價差50元，回委託失敗。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="544" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    2.放行單:委託價超過基準價上下50%或價差50元，回委託失敗。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 560 M 530 560 M 530 600 M 0 600" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 560 M 60 560 M 60 640 M 0 640" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 600px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 76px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                黃金現貨
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="30" y="604" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    黃金現貨
+                </text>
+            </switch>
+        </g>
+        <path d="M 60 560 M 120 560 M 120 600 M 60 600" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 580px; margin-left: 61px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                人工單
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="90" y="584" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    人工單
+                </text>
+            </switch>
+        </g>
+        <path d="M 120 560 M 350 560 M 350 600 M 120 600" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 580px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                放行單:委託價超過基準價上下10%，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="584" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    放行單:委託價超過基準價上下10%，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 560 M 530 560 M 530 600 M 350 600" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 580px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                放行單:委託價超過基準價上下10%，可強制。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="584" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    放行單:委託價超過基準價上下10%，可強制。
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 600 M 530 600 M 530 640 M 0 640" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 60 600 M 120 600 M 120 640 M 60 640" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 620px; margin-left: 61px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                營業員或電子單
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="90" y="624" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    營業員或電子單
+                </text>
+            </switch>
+        </g>
+        <path d="M 120 600 M 350 600 M 350 640 M 120 640" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 228px; height: 1px; padding-top: 620px; margin-left: 122px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                放行單:委託價超過基準價上下10%，回委託失敗。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="122" y="624" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    放行單:委託價超過基準價上下10%，回委託失敗。
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 600 M 530 600 M 530 640 M 350 640" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 620px; margin-left: 352px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 36px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                放行單:委託價超過基準價上下10%，回委託失敗。
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="352" y="624" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    放行單:委託價超過基準價上下10%，回委託失敗。
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
